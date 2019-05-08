@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspiria4", "Aspiria4\Aspiria4.csproj", "{B7F8CEF8-14C5-44CE-8E42-4DA1B44AA723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspiria4.Tests", "Aspiria4.Tests\Aspiria4.Tests.csproj", "{D9033262-0D0F-47E4-BC2E-8A8DB986B9A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F8CEF8-14C5-44CE-8E42-4DA1B44AA723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F8CEF8-14C5-44CE-8E42-4DA1B44AA723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F8CEF8-14C5-44CE-8E42-4DA1B44AA723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F8CEF8-14C5-44CE-8E42-4DA1B44AA723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9033262-0D0F-47E4-BC2E-8A8DB986B9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9033262-0D0F-47E4-BC2E-8A8DB986B9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9033262-0D0F-47E4-BC2E-8A8DB986B9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9033262-0D0F-47E4-BC2E-8A8DB986B9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E6A162-FA09-49E7-A793-2FDD6A609C00}
+	EndGlobalSection
+EndGlobal
